@@ -1,4 +1,4 @@
-# Fiap Hackaton
+# Prova Sub
 Essa POC foi criada para validação do projeto de Venda de Veiculos Online
 
 ## Technologies / Components implemented
